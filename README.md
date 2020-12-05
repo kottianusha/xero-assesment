@@ -2,7 +2,7 @@ Instruction to use:-
 
 To build the docker file 
 
-#docker build -t node-web-app:latest .
+#docker build -t node-web-app:latest
 
 To run the container in the background use the below command
 
